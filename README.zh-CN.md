@@ -36,7 +36,9 @@
 
 ---
 
-## 🚀 主项目：WaySlice
+## 🚀 主项目
+
+### [WaySlice](https://wayslice.cn)
 
 > **Telemetry for every way. Sliced.**
 > **所经之路，皆成遥测；所成遥测，皆可切析。**
@@ -60,7 +62,7 @@
 
 你的运动记录，不应该只是一条画在地图上的线，而是可视化、可分段分析的遥测数据。
 
-→ [使用 WaySlice](https://wayslice.c)
+→ [使用 WaySlice](https://wayslice.cn)
 
 ---
 

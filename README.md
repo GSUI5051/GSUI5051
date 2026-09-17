@@ -4,7 +4,7 @@ English | [简体中文](./README.zh-CN.md)
 
 # Hello there 👋 this is GSUI5051
 
-### Building tools for maps, telemetry, and the data behind the way.
+### Building tools for maps, telemetry, and the data behind a track.
 
 ✈️ Airline engineer by day · 🗺️ Independent builder by night
 
@@ -39,7 +39,7 @@ My interests tend to sit somewhere around:
 
 > **Telemetry for every way. Sliced.**
 
-An open-source, web-based activity analyzer built around **sector-based analysis** and **telemetry**.
+An open-source, web-based outdoor activity data analyzer built around **sector-based analysis** and **telemetry**.
 
 Keywords:
 
