@@ -11,7 +11,7 @@ English | [简体中文](./README.zh-CN.md)
 </div>
 
 ---
-## 🗣️ How to read my name
+## How to read my name
 
 Gee-eS-yoU-aI-fifty-fifty-one, or Gee-eS-yoU-aI-five-zero-five-one.
 
@@ -19,7 +19,7 @@ If you wish, you can even read it as Golf Sierra Uniform India five zero five on
 
 ---
 
-## 🧭 About Me
+## About Me
 
 By day, I'm an **engineer at an airline**, with an aerospace background and a lasting fascination with **aerodynamics**. Look into where physics, data, and judgment meet.
 
@@ -33,9 +33,9 @@ My interests tend to sit somewhere around:
 
 ---
 
-## 🚀 Major Project
+## Major Project
 
-### [WaySlice](https://wayslice.com)
+### [WaySlice](https://wayslice.com) and [WaySlice Terra](https://waysliceterra.com)
 
 > **Telemetry for every way. Sliced.**
 
@@ -43,24 +43,29 @@ An open-source, web-based outdoor activity data analyzer built around **sector-b
 
 Keywords:
 
-- 🗺️ GPX / KML / KMZ / TCX / FIT parsing
-- 📏 Distance and 3D distance
-- ⏱️ Time, pace and sector analysis
-- ⛰️ Elevation gain/loss and slope
-- ❤️ Heart-rate zones and telemetry
-- 🚴 Cycling / 🏃 Running / 🥾 Hiking
-- 🧭 Multiple map sources
-- 🌍 Metric / Imperial units
-- 🌐 Multi-language interface
-- 💻 Web-based and local-first where possible. Your data, only yours.
+- GPX / KML / KMZ / TCX / FIT parsing
+- Distance and 3D distance
+- Time, pace and sector analysis
+- Elevation gain/loss and slope
+- 3D map and contour (WaySlice Terra only)
+- Heart-rate zones and telemetry
+- Cycling / Running / Hiking
+- Multiple map sources
+- Metric / Imperial units
+- Multi-language interface
+- Web-based and local-first where possible. Your data, only yours.
 
 Instead of treating a recorded activity as just a line on a map, WaySlice treats it as a collection of measurable sectors with visualized telemetry.
 
+[WaySlice Terra](https://waysliceterra.com) is an advanced version of WaySlice, which can plot your track in a 3D map.
+
 → [Try WaySlice](https://wayslice.com)
+
+→ [Try WaySlice Terra](https://waysliceterra.com)
 
 ---
 
-## 🗺️ What I Like Building
+## What I Like Building
 
 I have a strong interest in:
 
@@ -68,14 +73,14 @@ I have a strong interest in:
 
 Recurring areas of interest:
 
-- 🗺️ Geospatial and route data
-- 📡 Telemetry and sensor data
-- ⛰️ Hiking and outdoor navigation
-- 🚴 Cycling and endurance activities
-- 📊 Data visualization and analysis
-- 🌐 Small, focused web applications
-- 🧩 Open-source software
-- 🤖 AI-assisted software development
+- Geospatial and route data
+- Telemetry and sensor data
+- Hiking and outdoor navigation
+- Cycling and endurance activities
+- Data visualization and analysis
+- Small, focused web applications
+- Open-source software
+- AI-assisted software development
 
 I'm particularly interested in tools that answer questions like:
 
@@ -93,13 +98,13 @@ Not like：
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 I tend to choose tools pragmatically rather than following a fixed stack — I'd rather evaluate **fit, long-term cost, reliability, and ecosystem** than default to whatever is popular.
 
 ### Web
 
-`JavaScript` · `HTML` · `CSS` · `Leaflet` · `SVG`
+`JavaScript` · `HTML` · `CSS` · `Leaflet` · `MapLibre`
 
 ### Data
 
@@ -115,7 +120,7 @@ I tend to choose tools pragmatically rather than following a fixed stack — I'd
 
 ---
 
-## 🤖 AI × Software Development
+## AI × Software Development
 
 One of my current interests is how AI is changing the way software is built.
 
@@ -145,9 +150,9 @@ The more interesting question is:
 
 ---
 
-## 🧩 Selected Projects
+## Selected Projects
 
-### 🗺️ WaySlice
+### WaySlice and Wayslice Terra
 
 **Telemetry for every way. Sliced.**
 
@@ -159,11 +164,13 @@ Open-source activity analyzer focused on sector-based telemetry.
 
 → [Visit WaySlice](https://wayslice.com)
 
+→ [VisitWaySlice Terra](https://waysliceterra.com)
+
 ---
 
-### 🧭 TrailScope
+### TrailScope
 
-An earlier exploration into browser-based, local GPX analysis.
+An earlier AI-assisted development exploration into browser-based, local GPX analysis.
 
 TrailScope helped shape many of the ideas that eventually became WaySlice.
 
@@ -174,6 +181,8 @@ TrailScope helped shape many of the ideas that eventually became WaySlice.
 ### ☢️ Antimatter Dimensions
 
 An Incremental/idle game on making antimatter, reaching infinity and more.
+
+The game has multiple prestige layers with unique mechanics.
 
 Top translator for Simplified Chinese in mobile (Android and iOS) version.
 
@@ -189,13 +198,15 @@ Top translator for Simplified Chinese in mobile (Android and iOS) version.
 
 An Incremental/idle game about a fish-eating shark and more.
 
+The game has multiple prestige layers with layer-related unique mechanics.
+
 Top contributor for Simplified Chinese text.
 
 → [Shark Incremental](https://gsui5051.github.io/shark-incremental/)
 
 ---
 
-## 🌏 Beyond Code
+## Beyond Code
 
 When I'm not building software, I spend a lot of time **walking, hiking, trail running, and cycling**.
 
@@ -209,13 +220,13 @@ A few other corners of my brain:
 - 🗣️ **Languages** native in Mandarin and Cantonese, working in Mandarin and English; endlessly curious about translation logic and how words get transliterated
 - 🎧 **K-pop** every long climb and descent, deserves a soundtrack
 
-That is also part of the reason WaySlice exists:
+That is also part of the reason WaySlice and WaySlice Terra exists:
 
 > **If I've already recorded the journey, why shouldn't I be able to understand it?**
 
 ---
 
-## ⚡ Small Things I Enjoy
+## Small Things I Enjoy
 
 - 🐰 Jellycat bunnies (the bashful kind)
 - 🕐 Once spent way too long figuring out which world-clock city best for UTC simulation with these conditions: UTC+0 all year round, no DST ever, as close to the Prime Meridian as possible
@@ -242,6 +253,7 @@ That is also part of the reason WaySlice exists:
 - Bilibili [少女们5051](https://space.bilibili.com/21982610)
 - Zhihu [GSUI5051](https://www.zhihu.com/people/gsui5051)
 - Weibo [GSUI5051](https://weibo.com/2549694844/)
+- afdian [GSUI5051](https://afdian.com/a/gsui5051)
 - Steam [Fanytastic](https://steamcommunity.com/profiles/76561198300638655/)
 - YouTube [Fanytastic](https://www.youtube.com/channel/UC4cyKyRuRgKfpgyqGNE1MEw)
 - Twitter / X [GSUI5051](https://x.com/GSUI5051)
